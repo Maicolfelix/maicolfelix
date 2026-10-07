@@ -10,6 +10,8 @@
 ![Blue Team](https://img.shields.io/badge/BLUE%20TEAM-0B3D91?style=for-the-badge)
 ![Defensive Security](https://img.shields.io/badge/DEFENSIVE%20SECURITY-0B3D91?style=for-the-badge)
 
+<p align="right"><img src="avatar.svg" width="110" alt="ITTACH pixel avatar"/></p>
+
 </div>
 
 ---
